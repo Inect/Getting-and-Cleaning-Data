@@ -45,6 +45,9 @@ data$activities <- as.factor(data$activities)
 names(data)<- gsub("^t", "time.", names(data))
 names(data)<- gsub("^f", "freq.", names(data))
 names(data)<- gsub("-", "_", names(data))
+names(data)<- gsub(")", "", names(data))
+names(data)<- gsub("\\(|\\)", "", names(data))
+names(data)<- gsub(",", "_", names(data))
 names(data)
 
 ##create tidydata
