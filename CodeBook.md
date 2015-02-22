@@ -1,480 +1,506 @@
-x
-participants
-activities
-time.BodyAcc_mean()_X
-time.BodyAcc_mean()_Y
-time.BodyAcc_mean()_Z
-time.BodyAcc_std()_X
-time.BodyAcc_std()_Y
-time.BodyAcc_std()_Z
-time.BodyAcc_mad()_X
-time.BodyAcc_mad()_Y
-time.BodyAcc_mad()_Z
-time.BodyAcc_max()_X
-time.BodyAcc_max()_Y
-time.BodyAcc_max()_Z
-time.BodyAcc_min()_X
-time.BodyAcc_min()_Y
-time.BodyAcc_min()_Z
-time.BodyAcc_sma()
-time.BodyAcc_energy()_X
-time.BodyAcc_energy()_Y
-time.BodyAcc_energy()_Z
-time.BodyAcc_iqr()_X
-time.BodyAcc_iqr()_Y
-time.BodyAcc_iqr()_Z
-time.BodyAcc_entropy()_X
-time.BodyAcc_entropy()_Y
-time.BodyAcc_entropy()_Z
-time.BodyAcc_arCoeff()_X,1
-time.BodyAcc_arCoeff()_X,2
-time.BodyAcc_arCoeff()_X,3
-time.BodyAcc_arCoeff()_X,4
-time.BodyAcc_arCoeff()_Y,1
-time.BodyAcc_arCoeff()_Y,2
-time.BodyAcc_arCoeff()_Y,3
-time.BodyAcc_arCoeff()_Y,4
-time.BodyAcc_arCoeff()_Z,1
-time.BodyAcc_arCoeff()_Z,2
-time.BodyAcc_arCoeff()_Z,3
-time.BodyAcc_arCoeff()_Z,4
-time.BodyAcc_correlation()_X,Y
-time.BodyAcc_correlation()_X,Z
-time.BodyAcc_correlation()_Y,Z
-time.GravityAcc_mean()_X
-time.GravityAcc_mean()_Y
-time.GravityAcc_mean()_Z
-time.GravityAcc_std()_X
-time.GravityAcc_std()_Y
-time.GravityAcc_std()_Z
-time.GravityAcc_mad()_X
-time.GravityAcc_mad()_Y
-time.GravityAcc_mad()_Z
-time.GravityAcc_max()_X
-time.GravityAcc_max()_Y
-time.GravityAcc_max()_Z
-time.GravityAcc_min()_X
-time.GravityAcc_min()_Y
-time.GravityAcc_min()_Z
-time.GravityAcc_sma()
-time.GravityAcc_energy()_X
-time.GravityAcc_energy()_Y
-time.GravityAcc_energy()_Z
-time.GravityAcc_iqr()_X
-time.GravityAcc_iqr()_Y
-time.GravityAcc_iqr()_Z
-time.GravityAcc_entropy()_X
-time.GravityAcc_entropy()_Y
-time.GravityAcc_entropy()_Z
-time.GravityAcc_arCoeff()_X,1
-time.GravityAcc_arCoeff()_X,2
-time.GravityAcc_arCoeff()_X,3
-time.GravityAcc_arCoeff()_X,4
-time.GravityAcc_arCoeff()_Y,1
-time.GravityAcc_arCoeff()_Y,2
-time.GravityAcc_arCoeff()_Y,3
-time.GravityAcc_arCoeff()_Y,4
-time.GravityAcc_arCoeff()_Z,1
-time.GravityAcc_arCoeff()_Z,2
-time.GravityAcc_arCoeff()_Z,3
-time.GravityAcc_arCoeff()_Z,4
-time.GravityAcc_correlation()_X,Y
-time.GravityAcc_correlation()_X,Z
-time.GravityAcc_correlation()_Y,Z
-time.BodyAccJerk_mean()_X
-time.BodyAccJerk_mean()_Y
-time.BodyAccJerk_mean()_Z
-time.BodyAccJerk_std()_X
-time.BodyAccJerk_std()_Y
-time.BodyAccJerk_std()_Z
-time.BodyAccJerk_mad()_X
-time.BodyAccJerk_mad()_Y
-time.BodyAccJerk_mad()_Z
-time.BodyAccJerk_max()_X
-time.BodyAccJerk_max()_Y
-time.BodyAccJerk_max()_Z
-time.BodyAccJerk_min()_X
-time.BodyAccJerk_min()_Y
-time.BodyAccJerk_min()_Z
-time.BodyAccJerk_sma()
-time.BodyAccJerk_energy()_X
-time.BodyAccJerk_energy()_Y
-time.BodyAccJerk_energy()_Z
-time.BodyAccJerk_iqr()_X
-time.BodyAccJerk_iqr()_Y
-time.BodyAccJerk_iqr()_Z
-time.BodyAccJerk_entropy()_X
-time.BodyAccJerk_entropy()_Y
-time.BodyAccJerk_entropy()_Z
-time.BodyAccJerk_arCoeff()_X,1
-time.BodyAccJerk_arCoeff()_X,2
-time.BodyAccJerk_arCoeff()_X,3
-time.BodyAccJerk_arCoeff()_X,4
-time.BodyAccJerk_arCoeff()_Y,1
-time.BodyAccJerk_arCoeff()_Y,2
-time.BodyAccJerk_arCoeff()_Y,3
-time.BodyAccJerk_arCoeff()_Y,4
-time.BodyAccJerk_arCoeff()_Z,1
-time.BodyAccJerk_arCoeff()_Z,2
-time.BodyAccJerk_arCoeff()_Z,3
-time.BodyAccJerk_arCoeff()_Z,4
-time.BodyAccJerk_correlation()_X,Y
-time.BodyAccJerk_correlation()_X,Z
-time.BodyAccJerk_correlation()_Y,Z
-time.BodyGyro_mean()_X
-time.BodyGyro_mean()_Y
-time.BodyGyro_mean()_Z
-time.BodyGyro_std()_X
-time.BodyGyro_std()_Y
-time.BodyGyro_std()_Z
-time.BodyGyro_mad()_X
-time.BodyGyro_mad()_Y
-time.BodyGyro_mad()_Z
-time.BodyGyro_max()_X
-time.BodyGyro_max()_Y
-time.BodyGyro_max()_Z
-time.BodyGyro_min()_X
-time.BodyGyro_min()_Y
-time.BodyGyro_min()_Z
-time.BodyGyro_sma()
-time.BodyGyro_energy()_X
-time.BodyGyro_energy()_Y
-time.BodyGyro_energy()_Z
-time.BodyGyro_iqr()_X
-time.BodyGyro_iqr()_Y
-time.BodyGyro_iqr()_Z
-time.BodyGyro_entropy()_X
-time.BodyGyro_entropy()_Y
-time.BodyGyro_entropy()_Z
-time.BodyGyro_arCoeff()_X,1
-time.BodyGyro_arCoeff()_X,2
-time.BodyGyro_arCoeff()_X,3
-time.BodyGyro_arCoeff()_X,4
-time.BodyGyro_arCoeff()_Y,1
-time.BodyGyro_arCoeff()_Y,2
-time.BodyGyro_arCoeff()_Y,3
-time.BodyGyro_arCoeff()_Y,4
-time.BodyGyro_arCoeff()_Z,1
-time.BodyGyro_arCoeff()_Z,2
-time.BodyGyro_arCoeff()_Z,3
-time.BodyGyro_arCoeff()_Z,4
-time.BodyGyro_correlation()_X,Y
-time.BodyGyro_correlation()_X,Z
-time.BodyGyro_correlation()_Y,Z
-time.BodyGyroJerk_mean()_X
-time.BodyGyroJerk_mean()_Y
-time.BodyGyroJerk_mean()_Z
-time.BodyGyroJerk_std()_X
-time.BodyGyroJerk_std()_Y
-time.BodyGyroJerk_std()_Z
-time.BodyGyroJerk_mad()_X
-time.BodyGyroJerk_mad()_Y
-time.BodyGyroJerk_mad()_Z
-time.BodyGyroJerk_max()_X
-time.BodyGyroJerk_max()_Y
-time.BodyGyroJerk_max()_Z
-time.BodyGyroJerk_min()_X
-time.BodyGyroJerk_min()_Y
-time.BodyGyroJerk_min()_Z
-time.BodyGyroJerk_sma()
-time.BodyGyroJerk_energy()_X
-time.BodyGyroJerk_energy()_Y
-time.BodyGyroJerk_energy()_Z
-time.BodyGyroJerk_iqr()_X
-time.BodyGyroJerk_iqr()_Y
-time.BodyGyroJerk_iqr()_Z
-time.BodyGyroJerk_entropy()_X
-time.BodyGyroJerk_entropy()_Y
-time.BodyGyroJerk_entropy()_Z
-time.BodyGyroJerk_arCoeff()_X,1
-time.BodyGyroJerk_arCoeff()_X,2
-time.BodyGyroJerk_arCoeff()_X,3
-time.BodyGyroJerk_arCoeff()_X,4
-time.BodyGyroJerk_arCoeff()_Y,1
-time.BodyGyroJerk_arCoeff()_Y,2
-time.BodyGyroJerk_arCoeff()_Y,3
-time.BodyGyroJerk_arCoeff()_Y,4
-time.BodyGyroJerk_arCoeff()_Z,1
-time.BodyGyroJerk_arCoeff()_Z,2
-time.BodyGyroJerk_arCoeff()_Z,3
-time.BodyGyroJerk_arCoeff()_Z,4
-time.BodyGyroJerk_correlation()_X,Y
-time.BodyGyroJerk_correlation()_X,Z
-time.BodyGyroJerk_correlation()_Y,Z
-time.BodyAccMag_mean()
-time.BodyAccMag_std()
-time.BodyAccMag_mad()
-time.BodyAccMag_max()
-time.BodyAccMag_min()
-time.BodyAccMag_sma()
-time.BodyAccMag_energy()
-time.BodyAccMag_iqr()
-time.BodyAccMag_entropy()
-time.BodyAccMag_arCoeff()1
-time.BodyAccMag_arCoeff()2
-time.BodyAccMag_arCoeff()3
-time.BodyAccMag_arCoeff()4
-time.GravityAccMag_mean()
-time.GravityAccMag_std()
-time.GravityAccMag_mad()
-time.GravityAccMag_max()
-time.GravityAccMag_min()
-time.GravityAccMag_sma()
-time.GravityAccMag_energy()
-time.GravityAccMag_iqr()
-time.GravityAccMag_entropy()
-time.GravityAccMag_arCoeff()1
-time.GravityAccMag_arCoeff()2
-time.GravityAccMag_arCoeff()3
-time.GravityAccMag_arCoeff()4
-time.BodyAccJerkMag_mean()
-time.BodyAccJerkMag_std()
-time.BodyAccJerkMag_mad()
-time.BodyAccJerkMag_max()
-time.BodyAccJerkMag_min()
-time.BodyAccJerkMag_sma()
-time.BodyAccJerkMag_energy()
-time.BodyAccJerkMag_iqr()
-time.BodyAccJerkMag_entropy()
-time.BodyAccJerkMag_arCoeff()1
-time.BodyAccJerkMag_arCoeff()2
-time.BodyAccJerkMag_arCoeff()3
-time.BodyAccJerkMag_arCoeff()4
-time.BodyGyroMag_mean()
-time.BodyGyroMag_std()
-time.BodyGyroMag_mad()
-time.BodyGyroMag_max()
-time.BodyGyroMag_min()
-time.BodyGyroMag_sma()
-time.BodyGyroMag_energy()
-time.BodyGyroMag_iqr()
-time.BodyGyroMag_entropy()
-time.BodyGyroMag_arCoeff()1
-time.BodyGyroMag_arCoeff()2
-time.BodyGyroMag_arCoeff()3
-time.BodyGyroMag_arCoeff()4
-time.BodyGyroJerkMag_mean()
-time.BodyGyroJerkMag_std()
-time.BodyGyroJerkMag_mad()
-time.BodyGyroJerkMag_max()
-time.BodyGyroJerkMag_min()
-time.BodyGyroJerkMag_sma()
-time.BodyGyroJerkMag_energy()
-time.BodyGyroJerkMag_iqr()
-time.BodyGyroJerkMag_entropy()
-time.BodyGyroJerkMag_arCoeff()1
-time.BodyGyroJerkMag_arCoeff()2
-time.BodyGyroJerkMag_arCoeff()3
-time.BodyGyroJerkMag_arCoeff()4
-freq.BodyAcc_mean()_X
-freq.BodyAcc_mean()_Y
-freq.BodyAcc_mean()_Z
-freq.BodyAcc_std()_X
-freq.BodyAcc_std()_Y
-freq.BodyAcc_std()_Z
-freq.BodyAcc_mad()_X
-freq.BodyAcc_mad()_Y
-freq.BodyAcc_mad()_Z
-freq.BodyAcc_max()_X
-freq.BodyAcc_max()_Y
-freq.BodyAcc_max()_Z
-freq.BodyAcc_min()_X
-freq.BodyAcc_min()_Y
-freq.BodyAcc_min()_Z
-freq.BodyAcc_sma()
-freq.BodyAcc_energy()_X
-freq.BodyAcc_energy()_Y
-freq.BodyAcc_energy()_Z
-freq.BodyAcc_iqr()_X
-freq.BodyAcc_iqr()_Y
-freq.BodyAcc_iqr()_Z
-freq.BodyAcc_entropy()_X
-freq.BodyAcc_entropy()_Y
-freq.BodyAcc_entropy()_Z
-freq.BodyAcc_maxInds_X
-freq.BodyAcc_maxInds_Y
-freq.BodyAcc_maxInds_Z
-freq.BodyAcc_meanFreq()_X
-freq.BodyAcc_meanFreq()_Y
-freq.BodyAcc_meanFreq()_Z
-freq.BodyAcc_skewness()_X
-freq.BodyAcc_kurtosis()_X
-freq.BodyAcc_skewness()_Y
-freq.BodyAcc_kurtosis()_Y
-freq.BodyAcc_skewness()_Z
-freq.BodyAcc_kurtosis()_Z
-freq.BodyAcc_bandsEnergy()_1,8
-freq.BodyAcc_bandsEnergy()_9,16
-freq.BodyAcc_bandsEnergy()_17,24
-freq.BodyAcc_bandsEnergy()_25,32
-freq.BodyAcc_bandsEnergy()_33,40
-freq.BodyAcc_bandsEnergy()_41,48
-freq.BodyAcc_bandsEnergy()_49,56
-freq.BodyAcc_bandsEnergy()_57,64
-freq.BodyAcc_bandsEnergy()_1,16
-freq.BodyAcc_bandsEnergy()_17,32
-freq.BodyAcc_bandsEnergy()_33,48
-freq.BodyAcc_bandsEnergy()_49,64
-freq.BodyAcc_bandsEnergy()_1,24
-freq.BodyAcc_bandsEnergy()_25,48
-freq.BodyAccJerk_mean()_X
-freq.BodyAccJerk_mean()_Y
-freq.BodyAccJerk_mean()_Z
-freq.BodyAccJerk_std()_X
-freq.BodyAccJerk_std()_Y
-freq.BodyAccJerk_std()_Z
-freq.BodyAccJerk_mad()_X
-freq.BodyAccJerk_mad()_Y
-freq.BodyAccJerk_mad()_Z
-freq.BodyAccJerk_max()_X
-freq.BodyAccJerk_max()_Y
-freq.BodyAccJerk_max()_Z
-freq.BodyAccJerk_min()_X
-freq.BodyAccJerk_min()_Y
-freq.BodyAccJerk_min()_Z
-freq.BodyAccJerk_sma()
-freq.BodyAccJerk_energy()_X
-freq.BodyAccJerk_energy()_Y
-freq.BodyAccJerk_energy()_Z
-freq.BodyAccJerk_iqr()_X
-freq.BodyAccJerk_iqr()_Y
-freq.BodyAccJerk_iqr()_Z
-freq.BodyAccJerk_entropy()_X
-freq.BodyAccJerk_entropy()_Y
-freq.BodyAccJerk_entropy()_Z
-freq.BodyAccJerk_maxInds_X
-freq.BodyAccJerk_maxInds_Y
-freq.BodyAccJerk_maxInds_Z
-freq.BodyAccJerk_meanFreq()_X
-freq.BodyAccJerk_meanFreq()_Y
-freq.BodyAccJerk_meanFreq()_Z
-freq.BodyAccJerk_skewness()_X
-freq.BodyAccJerk_kurtosis()_X
-freq.BodyAccJerk_skewness()_Y
-freq.BodyAccJerk_kurtosis()_Y
-freq.BodyAccJerk_skewness()_Z
-freq.BodyAccJerk_kurtosis()_Z
-freq.BodyAccJerk_bandsEnergy()_1,8
-freq.BodyAccJerk_bandsEnergy()_9,16
-freq.BodyAccJerk_bandsEnergy()_17,24
-freq.BodyAccJerk_bandsEnergy()_25,32
-freq.BodyAccJerk_bandsEnergy()_33,40
-freq.BodyAccJerk_bandsEnergy()_41,48
-freq.BodyAccJerk_bandsEnergy()_49,56
-freq.BodyAccJerk_bandsEnergy()_57,64
-freq.BodyAccJerk_bandsEnergy()_1,16
-freq.BodyAccJerk_bandsEnergy()_17,32
-freq.BodyAccJerk_bandsEnergy()_33,48
-freq.BodyAccJerk_bandsEnergy()_49,64
-freq.BodyAccJerk_bandsEnergy()_1,24
-freq.BodyAccJerk_bandsEnergy()_25,48
-freq.BodyGyro_mean()_X
-freq.BodyGyro_mean()_Y
-freq.BodyGyro_mean()_Z
-freq.BodyGyro_std()_X
-freq.BodyGyro_std()_Y
-freq.BodyGyro_std()_Z
-freq.BodyGyro_mad()_X
-freq.BodyGyro_mad()_Y
-freq.BodyGyro_mad()_Z
-freq.BodyGyro_max()_X
-freq.BodyGyro_max()_Y
-freq.BodyGyro_max()_Z
-freq.BodyGyro_min()_X
-freq.BodyGyro_min()_Y
-freq.BodyGyro_min()_Z
-freq.BodyGyro_sma()
-freq.BodyGyro_energy()_X
-freq.BodyGyro_energy()_Y
-freq.BodyGyro_energy()_Z
-freq.BodyGyro_iqr()_X
-freq.BodyGyro_iqr()_Y
-freq.BodyGyro_iqr()_Z
-freq.BodyGyro_entropy()_X
-freq.BodyGyro_entropy()_Y
-freq.BodyGyro_entropy()_Z
-freq.BodyGyro_maxInds_X
-freq.BodyGyro_maxInds_Y
-freq.BodyGyro_maxInds_Z
-freq.BodyGyro_meanFreq()_X
-freq.BodyGyro_meanFreq()_Y
-freq.BodyGyro_meanFreq()_Z
-freq.BodyGyro_skewness()_X
-freq.BodyGyro_kurtosis()_X
-freq.BodyGyro_skewness()_Y
-freq.BodyGyro_kurtosis()_Y
-freq.BodyGyro_skewness()_Z
-freq.BodyGyro_kurtosis()_Z
-freq.BodyGyro_bandsEnergy()_1,8
-freq.BodyGyro_bandsEnergy()_9,16
-freq.BodyGyro_bandsEnergy()_17,24
-freq.BodyGyro_bandsEnergy()_25,32
-freq.BodyGyro_bandsEnergy()_33,40
-freq.BodyGyro_bandsEnergy()_41,48
-freq.BodyGyro_bandsEnergy()_49,56
-freq.BodyGyro_bandsEnergy()_57,64
-freq.BodyGyro_bandsEnergy()_1,16
-freq.BodyGyro_bandsEnergy()_17,32
-freq.BodyGyro_bandsEnergy()_33,48
-freq.BodyGyro_bandsEnergy()_49,64
-freq.BodyGyro_bandsEnergy()_1,24
-freq.BodyGyro_bandsEnergy()_25,48
-freq.BodyAccMag_mean()
-freq.BodyAccMag_std()
-freq.BodyAccMag_mad()
-freq.BodyAccMag_max()
-freq.BodyAccMag_min()
-freq.BodyAccMag_sma()
-freq.BodyAccMag_energy()
-freq.BodyAccMag_iqr()
-freq.BodyAccMag_entropy()
-freq.BodyAccMag_maxInds
-freq.BodyAccMag_meanFreq()
-freq.BodyAccMag_skewness()
-freq.BodyAccMag_kurtosis()
-freq.BodyBodyAccJerkMag_mean()
-freq.BodyBodyAccJerkMag_std()
-freq.BodyBodyAccJerkMag_mad()
-freq.BodyBodyAccJerkMag_max()
-freq.BodyBodyAccJerkMag_min()
-freq.BodyBodyAccJerkMag_sma()
-freq.BodyBodyAccJerkMag_energy()
-freq.BodyBodyAccJerkMag_iqr()
-freq.BodyBodyAccJerkMag_entropy()
-freq.BodyBodyAccJerkMag_maxInds
-freq.BodyBodyAccJerkMag_meanFreq()
-freq.BodyBodyAccJerkMag_skewness()
-freq.BodyBodyAccJerkMag_kurtosis()
-freq.BodyBodyGyroMag_mean()
-freq.BodyBodyGyroMag_std()
-freq.BodyBodyGyroMag_mad()
-freq.BodyBodyGyroMag_max()
-freq.BodyBodyGyroMag_min()
-freq.BodyBodyGyroMag_sma()
-freq.BodyBodyGyroMag_energy()
-freq.BodyBodyGyroMag_iqr()
-freq.BodyBodyGyroMag_entropy()
-freq.BodyBodyGyroMag_maxInds
-freq.BodyBodyGyroMag_meanFreq()
-freq.BodyBodyGyroMag_skewness()
-freq.BodyBodyGyroMag_kurtosis()
-freq.BodyBodyGyroJerkMag_mean()
-freq.BodyBodyGyroJerkMag_std()
-freq.BodyBodyGyroJerkMag_mad()
-freq.BodyBodyGyroJerkMag_max()
-freq.BodyBodyGyroJerkMag_min()
-freq.BodyBodyGyroJerkMag_sma()
-freq.BodyBodyGyroJerkMag_energy()
-freq.BodyBodyGyroJerkMag_iqr()
-freq.BodyBodyGyroJerkMag_entropy()
-freq.BodyBodyGyroJerkMag_maxInds
-freq.BodyBodyGyroJerkMag_meanFreq()
-freq.BodyBodyGyroJerkMag_skewness()
-freq.BodyBodyGyroJerkMag_kurtosis()
-angle(tBodyAccMean,gravity)
-angle(tBodyAccJerkMean),gravityMean)
-angle(tBodyGyroMean,gravityMean)
-angle(tBodyGyroJerkMean,gravityMean)
-angle(X,gravityMean)
-angle(Y,gravityMean)
-angle(Z,gravityMean)
+Variable
+testY
+testX
+testsub
+trainX
+TrainY
+trainsub
+features
+
+data ## is the varable that contains the merged data files from above with the names listed from features
+all files can be download at https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+
+mean ## holds the mean extracted from data
+std ## holds the standard devation extracted from data
+
+Activity Names
+[1] "WALKING"
+[2] "WALKING_UPSTAIRS"
+[3] "WALKING_DOWNSTAIRS"
+[4] "SITTING"
+[5] "STANDING"
+[6] "LAYING"
+
+units mesuared in;
+	Hz
+
+Lables
+  [1] "time.BodyAcc_mean_X"               
+  [2] "time.BodyAcc_mean_Y"               
+  [3] "time.BodyAcc_mean_Z"               
+  [4] "time.BodyAcc_std_X"                
+  [5] "time.BodyAcc_std_Y"                
+  [6] "time.BodyAcc_std_Z"                
+  [7] "time.BodyAcc_mad_X"                
+  [8] "time.BodyAcc_mad_Y"                
+  [9] "time.BodyAcc_mad_Z"                
+ [10] "time.BodyAcc_max_X"                
+ [11] "time.BodyAcc_max_Y"                
+ [12] "time.BodyAcc_max_Z"                
+ [13] "time.BodyAcc_min_X"                
+ [14] "time.BodyAcc_min_Y"                
+ [15] "time.BodyAcc_min_Z"                
+ [16] "time.BodyAcc_sma"                  
+ [17] "time.BodyAcc_energy_X"             
+ [18] "time.BodyAcc_energy_Y"             
+ [19] "time.BodyAcc_energy_Z"             
+ [20] "time.BodyAcc_iqr_X"                
+ [21] "time.BodyAcc_iqr_Y"                
+ [22] "time.BodyAcc_iqr_Z"                
+ [23] "time.BodyAcc_entropy_X"            
+ [24] "time.BodyAcc_entropy_Y"            
+ [25] "time.BodyAcc_entropy_Z"            
+ [26] "time.BodyAcc_arCoeff_X_1"          
+ [27] "time.BodyAcc_arCoeff_X_2"          
+ [28] "time.BodyAcc_arCoeff_X_3"          
+ [29] "time.BodyAcc_arCoeff_X_4"          
+ [30] "time.BodyAcc_arCoeff_Y_1"          
+ [31] "time.BodyAcc_arCoeff_Y_2"          
+ [32] "time.BodyAcc_arCoeff_Y_3"          
+ [33] "time.BodyAcc_arCoeff_Y_4"          
+ [34] "time.BodyAcc_arCoeff_Z_1"          
+ [35] "time.BodyAcc_arCoeff_Z_2"          
+ [36] "time.BodyAcc_arCoeff_Z_3"          
+ [37] "time.BodyAcc_arCoeff_Z_4"          
+ [38] "time.BodyAcc_correlation_X_Y"      
+ [39] "time.BodyAcc_correlation_X_Z"      
+ [40] "time.BodyAcc_correlation_Y_Z"      
+ [41] "time.GravityAcc_mean_X"            
+ [42] "time.GravityAcc_mean_Y"            
+ [43] "time.GravityAcc_mean_Z"            
+ [44] "time.GravityAcc_std_X"             
+ [45] "time.GravityAcc_std_Y"             
+ [46] "time.GravityAcc_std_Z"             
+ [47] "time.GravityAcc_mad_X"             
+ [48] "time.GravityAcc_mad_Y"             
+ [49] "time.GravityAcc_mad_Z"             
+ [50] "time.GravityAcc_max_X"             
+ [51] "time.GravityAcc_max_Y"             
+ [52] "time.GravityAcc_max_Z"             
+ [53] "time.GravityAcc_min_X"             
+ [54] "time.GravityAcc_min_Y"             
+ [55] "time.GravityAcc_min_Z"             
+ [56] "time.GravityAcc_sma"               
+ [57] "time.GravityAcc_energy_X"          
+ [58] "time.GravityAcc_energy_Y"          
+ [59] "time.GravityAcc_energy_Z"          
+ [60] "time.GravityAcc_iqr_X"             
+ [61] "time.GravityAcc_iqr_Y"             
+ [62] "time.GravityAcc_iqr_Z"             
+ [63] "time.GravityAcc_entropy_X"         
+ [64] "time.GravityAcc_entropy_Y"         
+ [65] "time.GravityAcc_entropy_Z"         
+ [66] "time.GravityAcc_arCoeff_X_1"       
+ [67] "time.GravityAcc_arCoeff_X_2"       
+ [68] "time.GravityAcc_arCoeff_X_3"       
+ [69] "time.GravityAcc_arCoeff_X_4"       
+ [70] "time.GravityAcc_arCoeff_Y_1"       
+ [71] "time.GravityAcc_arCoeff_Y_2"       
+ [72] "time.GravityAcc_arCoeff_Y_3"       
+ [73] "time.GravityAcc_arCoeff_Y_4"       
+ [74] "time.GravityAcc_arCoeff_Z_1"       
+ [75] "time.GravityAcc_arCoeff_Z_2"       
+ [76] "time.GravityAcc_arCoeff_Z_3"       
+ [77] "time.GravityAcc_arCoeff_Z_4"       
+ [78] "time.GravityAcc_correlation_X_Y"   
+ [79] "time.GravityAcc_correlation_X_Z"   
+ [80] "time.GravityAcc_correlation_Y_Z"   
+ [81] "time.BodyAccJerk_mean_X"           
+ [82] "time.BodyAccJerk_mean_Y"           
+ [83] "time.BodyAccJerk_mean_Z"           
+ [84] "time.BodyAccJerk_std_X"            
+ [85] "time.BodyAccJerk_std_Y"            
+ [86] "time.BodyAccJerk_std_Z"            
+ [87] "time.BodyAccJerk_mad_X"            
+ [88] "time.BodyAccJerk_mad_Y"            
+ [89] "time.BodyAccJerk_mad_Z"            
+ [90] "time.BodyAccJerk_max_X"            
+ [91] "time.BodyAccJerk_max_Y"            
+ [92] "time.BodyAccJerk_max_Z"            
+ [93] "time.BodyAccJerk_min_X"            
+ [94] "time.BodyAccJerk_min_Y"            
+ [95] "time.BodyAccJerk_min_Z"            
+ [96] "time.BodyAccJerk_sma"              
+ [97] "time.BodyAccJerk_energy_X"         
+ [98] "time.BodyAccJerk_energy_Y"         
+ [99] "time.BodyAccJerk_energy_Z"         
+[100] "time.BodyAccJerk_iqr_X"            
+[101] "time.BodyAccJerk_iqr_Y"            
+[102] "time.BodyAccJerk_iqr_Z"            
+[103] "time.BodyAccJerk_entropy_X"        
+[104] "time.BodyAccJerk_entropy_Y"        
+[105] "time.BodyAccJerk_entropy_Z"        
+[106] "time.BodyAccJerk_arCoeff_X_1"      
+[107] "time.BodyAccJerk_arCoeff_X_2"      
+[108] "time.BodyAccJerk_arCoeff_X_3"      
+[109] "time.BodyAccJerk_arCoeff_X_4"      
+[110] "time.BodyAccJerk_arCoeff_Y_1"      
+[111] "time.BodyAccJerk_arCoeff_Y_2"      
+[112] "time.BodyAccJerk_arCoeff_Y_3"      
+[113] "time.BodyAccJerk_arCoeff_Y_4"      
+[114] "time.BodyAccJerk_arCoeff_Z_1"      
+[115] "time.BodyAccJerk_arCoeff_Z_2"      
+[116] "time.BodyAccJerk_arCoeff_Z_3"      
+[117] "time.BodyAccJerk_arCoeff_Z_4"      
+[118] "time.BodyAccJerk_correlation_X_Y"  
+[119] "time.BodyAccJerk_correlation_X_Z"  
+[120] "time.BodyAccJerk_correlation_Y_Z"  
+[121] "time.BodyGyro_mean_X"              
+[122] "time.BodyGyro_mean_Y"              
+[123] "time.BodyGyro_mean_Z"              
+[124] "time.BodyGyro_std_X"               
+[125] "time.BodyGyro_std_Y"               
+[126] "time.BodyGyro_std_Z"               
+[127] "time.BodyGyro_mad_X"               
+[128] "time.BodyGyro_mad_Y"               
+[129] "time.BodyGyro_mad_Z"               
+[130] "time.BodyGyro_max_X"               
+[131] "time.BodyGyro_max_Y"               
+[132] "time.BodyGyro_max_Z"               
+[133] "time.BodyGyro_min_X"               
+[134] "time.BodyGyro_min_Y"               
+[135] "time.BodyGyro_min_Z"               
+[136] "time.BodyGyro_sma"                 
+[137] "time.BodyGyro_energy_X"            
+[138] "time.BodyGyro_energy_Y"            
+[139] "time.BodyGyro_energy_Z"            
+[140] "time.BodyGyro_iqr_X"               
+[141] "time.BodyGyro_iqr_Y"               
+[142] "time.BodyGyro_iqr_Z"               
+[143] "time.BodyGyro_entropy_X"           
+[144] "time.BodyGyro_entropy_Y"           
+[145] "time.BodyGyro_entropy_Z"           
+[146] "time.BodyGyro_arCoeff_X_1"         
+[147] "time.BodyGyro_arCoeff_X_2"         
+[148] "time.BodyGyro_arCoeff_X_3"         
+[149] "time.BodyGyro_arCoeff_X_4"         
+[150] "time.BodyGyro_arCoeff_Y_1"         
+[151] "time.BodyGyro_arCoeff_Y_2"         
+[152] "time.BodyGyro_arCoeff_Y_3"         
+[153] "time.BodyGyro_arCoeff_Y_4"         
+[154] "time.BodyGyro_arCoeff_Z_1"         
+[155] "time.BodyGyro_arCoeff_Z_2"         
+[156] "time.BodyGyro_arCoeff_Z_3"         
+[157] "time.BodyGyro_arCoeff_Z_4"         
+[158] "time.BodyGyro_correlation_X_Y"     
+[159] "time.BodyGyro_correlation_X_Z"     
+[160] "time.BodyGyro_correlation_Y_Z"     
+[161] "time.BodyGyroJerk_mean_X"          
+[162] "time.BodyGyroJerk_mean_Y"          
+[163] "time.BodyGyroJerk_mean_Z"          
+[164] "time.BodyGyroJerk_std_X"           
+[165] "time.BodyGyroJerk_std_Y"           
+[166] "time.BodyGyroJerk_std_Z"           
+[167] "time.BodyGyroJerk_mad_X"           
+[168] "time.BodyGyroJerk_mad_Y"           
+[169] "time.BodyGyroJerk_mad_Z"           
+[170] "time.BodyGyroJerk_max_X"           
+[171] "time.BodyGyroJerk_max_Y"           
+[172] "time.BodyGyroJerk_max_Z"           
+[173] "time.BodyGyroJerk_min_X"           
+[174] "time.BodyGyroJerk_min_Y"           
+[175] "time.BodyGyroJerk_min_Z"           
+[176] "time.BodyGyroJerk_sma"             
+[177] "time.BodyGyroJerk_energy_X"        
+[178] "time.BodyGyroJerk_energy_Y"        
+[179] "time.BodyGyroJerk_energy_Z"        
+[180] "time.BodyGyroJerk_iqr_X"           
+[181] "time.BodyGyroJerk_iqr_Y"           
+[182] "time.BodyGyroJerk_iqr_Z"           
+[183] "time.BodyGyroJerk_entropy_X"       
+[184] "time.BodyGyroJerk_entropy_Y"       
+[185] "time.BodyGyroJerk_entropy_Z"       
+[186] "time.BodyGyroJerk_arCoeff_X_1"     
+[187] "time.BodyGyroJerk_arCoeff_X_2"     
+[188] "time.BodyGyroJerk_arCoeff_X_3"     
+[189] "time.BodyGyroJerk_arCoeff_X_4"     
+[190] "time.BodyGyroJerk_arCoeff_Y_1"     
+[191] "time.BodyGyroJerk_arCoeff_Y_2"     
+[192] "time.BodyGyroJerk_arCoeff_Y_3"     
+[193] "time.BodyGyroJerk_arCoeff_Y_4"     
+[194] "time.BodyGyroJerk_arCoeff_Z_1"     
+[195] "time.BodyGyroJerk_arCoeff_Z_2"     
+[196] "time.BodyGyroJerk_arCoeff_Z_3"     
+[197] "time.BodyGyroJerk_arCoeff_Z_4"     
+[198] "time.BodyGyroJerk_correlation_X_Y" 
+[199] "time.BodyGyroJerk_correlation_X_Z" 
+[200] "time.BodyGyroJerk_correlation_Y_Z" 
+[201] "time.BodyAccMag_mean"              
+[202] "time.BodyAccMag_std"               
+[203] "time.BodyAccMag_mad"               
+[204] "time.BodyAccMag_max"               
+[205] "time.BodyAccMag_min"               
+[206] "time.BodyAccMag_sma"               
+[207] "time.BodyAccMag_energy"            
+[208] "time.BodyAccMag_iqr"               
+[209] "time.BodyAccMag_entropy"           
+[210] "time.BodyAccMag_arCoeff1"          
+[211] "time.BodyAccMag_arCoeff2"          
+[212] "time.BodyAccMag_arCoeff3"          
+[213] "time.BodyAccMag_arCoeff4"          
+[214] "time.GravityAccMag_mean"           
+[215] "time.GravityAccMag_std"            
+[216] "time.GravityAccMag_mad"            
+[217] "time.GravityAccMag_max"            
+[218] "time.GravityAccMag_min"            
+[219] "time.GravityAccMag_sma"            
+[220] "time.GravityAccMag_energy"         
+[221] "time.GravityAccMag_iqr"            
+[222] "time.GravityAccMag_entropy"        
+[223] "time.GravityAccMag_arCoeff1"       
+[224] "time.GravityAccMag_arCoeff2"       
+[225] "time.GravityAccMag_arCoeff3"       
+[226] "time.GravityAccMag_arCoeff4"       
+[227] "time.BodyAccJerkMag_mean"          
+[228] "time.BodyAccJerkMag_std"           
+[229] "time.BodyAccJerkMag_mad"           
+[230] "time.BodyAccJerkMag_max"           
+[231] "time.BodyAccJerkMag_min"           
+[232] "time.BodyAccJerkMag_sma"           
+[233] "time.BodyAccJerkMag_energy"        
+[234] "time.BodyAccJerkMag_iqr"           
+[235] "time.BodyAccJerkMag_entropy"       
+[236] "time.BodyAccJerkMag_arCoeff1"      
+[237] "time.BodyAccJerkMag_arCoeff2"      
+[238] "time.BodyAccJerkMag_arCoeff3"      
+[239] "time.BodyAccJerkMag_arCoeff4"      
+[240] "time.BodyGyroMag_mean"             
+[241] "time.BodyGyroMag_std"              
+[242] "time.BodyGyroMag_mad"              
+[243] "time.BodyGyroMag_max"              
+[244] "time.BodyGyroMag_min"              
+[245] "time.BodyGyroMag_sma"              
+[246] "time.BodyGyroMag_energy"           
+[247] "time.BodyGyroMag_iqr"              
+[248] "time.BodyGyroMag_entropy"          
+[249] "time.BodyGyroMag_arCoeff1"         
+[250] "time.BodyGyroMag_arCoeff2"         
+[251] "time.BodyGyroMag_arCoeff3"         
+[252] "time.BodyGyroMag_arCoeff4"         
+[253] "time.BodyGyroJerkMag_mean"         
+[254] "time.BodyGyroJerkMag_std"          
+[255] "time.BodyGyroJerkMag_mad"          
+[256] "time.BodyGyroJerkMag_max"          
+[257] "time.BodyGyroJerkMag_min"          
+[258] "time.BodyGyroJerkMag_sma"          
+[259] "time.BodyGyroJerkMag_energy"       
+[260] "time.BodyGyroJerkMag_iqr"          
+[261] "time.BodyGyroJerkMag_entropy"      
+[262] "time.BodyGyroJerkMag_arCoeff1"     
+[263] "time.BodyGyroJerkMag_arCoeff2"     
+[264] "time.BodyGyroJerkMag_arCoeff3"     
+[265] "time.BodyGyroJerkMag_arCoeff4"     
+[266] "freq.BodyAcc_mean_X"               
+[267] "freq.BodyAcc_mean_Y"               
+[268] "freq.BodyAcc_mean_Z"               
+[269] "freq.BodyAcc_std_X"                
+[270] "freq.BodyAcc_std_Y"                
+[271] "freq.BodyAcc_std_Z"                
+[272] "freq.BodyAcc_mad_X"                
+[273] "freq.BodyAcc_mad_Y"                
+[274] "freq.BodyAcc_mad_Z"                
+[275] "freq.BodyAcc_max_X"                
+[276] "freq.BodyAcc_max_Y"                
+[277] "freq.BodyAcc_max_Z"                
+[278] "freq.BodyAcc_min_X"                
+[279] "freq.BodyAcc_min_Y"                
+[280] "freq.BodyAcc_min_Z"                
+[281] "freq.BodyAcc_sma"                  
+[282] "freq.BodyAcc_energy_X"             
+[283] "freq.BodyAcc_energy_Y"             
+[284] "freq.BodyAcc_energy_Z"             
+[285] "freq.BodyAcc_iqr_X"                
+[286] "freq.BodyAcc_iqr_Y"                
+[287] "freq.BodyAcc_iqr_Z"                
+[288] "freq.BodyAcc_entropy_X"            
+[289] "freq.BodyAcc_entropy_Y"            
+[290] "freq.BodyAcc_entropy_Z"            
+[291] "freq.BodyAcc_maxInds_X"            
+[292] "freq.BodyAcc_maxInds_Y"            
+[293] "freq.BodyAcc_maxInds_Z"            
+[294] "freq.BodyAcc_meanFreq_X"           
+[295] "freq.BodyAcc_meanFreq_Y"           
+[296] "freq.BodyAcc_meanFreq_Z"           
+[297] "freq.BodyAcc_skewness_X"           
+[298] "freq.BodyAcc_kurtosis_X"           
+[299] "freq.BodyAcc_skewness_Y"           
+[300] "freq.BodyAcc_kurtosis_Y"           
+[301] "freq.BodyAcc_skewness_Z"           
+[302] "freq.BodyAcc_kurtosis_Z"           
+[303] "freq.BodyAcc_bandsEnergy_1_8"      
+[304] "freq.BodyAcc_bandsEnergy_9_16"     
+[305] "freq.BodyAcc_bandsEnergy_17_24"    
+[306] "freq.BodyAcc_bandsEnergy_25_32"    
+[307] "freq.BodyAcc_bandsEnergy_33_40"    
+[308] "freq.BodyAcc_bandsEnergy_41_48"    
+[309] "freq.BodyAcc_bandsEnergy_49_56"    
+[310] "freq.BodyAcc_bandsEnergy_57_64"    
+[311] "freq.BodyAcc_bandsEnergy_1_16"     
+[312] "freq.BodyAcc_bandsEnergy_17_32"    
+[313] "freq.BodyAcc_bandsEnergy_33_48"    
+[314] "freq.BodyAcc_bandsEnergy_49_64"    
+[315] "freq.BodyAcc_bandsEnergy_1_24"     
+[316] "freq.BodyAcc_bandsEnergy_25_48"    
+[317] "freq.BodyAccJerk_mean_X"           
+[318] "freq.BodyAccJerk_mean_Y"           
+[319] "freq.BodyAccJerk_mean_Z"           
+[320] "freq.BodyAccJerk_std_X"            
+[321] "freq.BodyAccJerk_std_Y"            
+[322] "freq.BodyAccJerk_std_Z"            
+[323] "freq.BodyAccJerk_mad_X"            
+[324] "freq.BodyAccJerk_mad_Y"            
+[325] "freq.BodyAccJerk_mad_Z"            
+[326] "freq.BodyAccJerk_max_X"            
+[327] "freq.BodyAccJerk_max_Y"            
+[328] "freq.BodyAccJerk_max_Z"            
+[329] "freq.BodyAccJerk_min_X"            
+[330] "freq.BodyAccJerk_min_Y"            
+[331] "freq.BodyAccJerk_min_Z"            
+[332] "freq.BodyAccJerk_sma"              
+[333] "freq.BodyAccJerk_energy_X"         
+[334] "freq.BodyAccJerk_energy_Y"         
+[335] "freq.BodyAccJerk_energy_Z"         
+[336] "freq.BodyAccJerk_iqr_X"            
+[337] "freq.BodyAccJerk_iqr_Y"            
+[338] "freq.BodyAccJerk_iqr_Z"            
+[339] "freq.BodyAccJerk_entropy_X"        
+[340] "freq.BodyAccJerk_entropy_Y"        
+[341] "freq.BodyAccJerk_entropy_Z"        
+[342] "freq.BodyAccJerk_maxInds_X"        
+[343] "freq.BodyAccJerk_maxInds_Y"        
+[344] "freq.BodyAccJerk_maxInds_Z"        
+[345] "freq.BodyAccJerk_meanFreq_X"       
+[346] "freq.BodyAccJerk_meanFreq_Y"       
+[347] "freq.BodyAccJerk_meanFreq_Z"       
+[348] "freq.BodyAccJerk_skewness_X"       
+[349] "freq.BodyAccJerk_kurtosis_X"       
+[350] "freq.BodyAccJerk_skewness_Y"       
+[351] "freq.BodyAccJerk_kurtosis_Y"       
+[352] "freq.BodyAccJerk_skewness_Z"       
+[353] "freq.BodyAccJerk_kurtosis_Z"       
+[354] "freq.BodyAccJerk_bandsEnergy_1_8"  
+[355] "freq.BodyAccJerk_bandsEnergy_9_16" 
+[356] "freq.BodyAccJerk_bandsEnergy_17_24"
+[357] "freq.BodyAccJerk_bandsEnergy_25_32"
+[358] "freq.BodyAccJerk_bandsEnergy_33_40"
+[359] "freq.BodyAccJerk_bandsEnergy_41_48"
+[360] "freq.BodyAccJerk_bandsEnergy_49_56"
+[361] "freq.BodyAccJerk_bandsEnergy_57_64"
+[362] "freq.BodyAccJerk_bandsEnergy_1_16" 
+[363] "freq.BodyAccJerk_bandsEnergy_17_32"
+[364] "freq.BodyAccJerk_bandsEnergy_33_48"
+[365] "freq.BodyAccJerk_bandsEnergy_49_64"
+[366] "freq.BodyAccJerk_bandsEnergy_1_24" 
+[367] "freq.BodyAccJerk_bandsEnergy_25_48"
+[368] "freq.BodyGyro_mean_X"              
+[369] "freq.BodyGyro_mean_Y"              
+[370] "freq.BodyGyro_mean_Z"              
+[371] "freq.BodyGyro_std_X"               
+[372] "freq.BodyGyro_std_Y"               
+[373] "freq.BodyGyro_std_Z"               
+[374] "freq.BodyGyro_mad_X"               
+[375] "freq.BodyGyro_mad_Y"               
+[376] "freq.BodyGyro_mad_Z"               
+[377] "freq.BodyGyro_max_X"               
+[378] "freq.BodyGyro_max_Y"               
+[379] "freq.BodyGyro_max_Z"               
+[380] "freq.BodyGyro_min_X"               
+[381] "freq.BodyGyro_min_Y"               
+[382] "freq.BodyGyro_min_Z"               
+[383] "freq.BodyGyro_sma"                 
+[384] "freq.BodyGyro_energy_X"            
+[385] "freq.BodyGyro_energy_Y"            
+[386] "freq.BodyGyro_energy_Z"            
+[387] "freq.BodyGyro_iqr_X"               
+[388] "freq.BodyGyro_iqr_Y"               
+[389] "freq.BodyGyro_iqr_Z"               
+[390] "freq.BodyGyro_entropy_X"           
+[391] "freq.BodyGyro_entropy_Y"           
+[392] "freq.BodyGyro_entropy_Z"           
+[393] "freq.BodyGyro_maxInds_X"           
+[394] "freq.BodyGyro_maxInds_Y"           
+[395] "freq.BodyGyro_maxInds_Z"           
+[396] "freq.BodyGyro_meanFreq_X"          
+[397] "freq.BodyGyro_meanFreq_Y"          
+[398] "freq.BodyGyro_meanFreq_Z"          
+[399] "freq.BodyGyro_skewness_X"          
+[400] "freq.BodyGyro_kurtosis_X"          
+[401] "freq.BodyGyro_skewness_Y"          
+[402] "freq.BodyGyro_kurtosis_Y"          
+[403] "freq.BodyGyro_skewness_Z"          
+[404] "freq.BodyGyro_kurtosis_Z"          
+[405] "freq.BodyGyro_bandsEnergy_1_8"     
+[406] "freq.BodyGyro_bandsEnergy_9_16"    
+[407] "freq.BodyGyro_bandsEnergy_17_24"   
+[408] "freq.BodyGyro_bandsEnergy_25_32"   
+[409] "freq.BodyGyro_bandsEnergy_33_40"   
+[410] "freq.BodyGyro_bandsEnergy_41_48"   
+[411] "freq.BodyGyro_bandsEnergy_49_56"   
+[412] "freq.BodyGyro_bandsEnergy_57_64"   
+[413] "freq.BodyGyro_bandsEnergy_1_16"    
+[414] "freq.BodyGyro_bandsEnergy_17_32"   
+[415] "freq.BodyGyro_bandsEnergy_33_48"   
+[416] "freq.BodyGyro_bandsEnergy_49_64"   
+[417] "freq.BodyGyro_bandsEnergy_1_24"    
+[418] "freq.BodyGyro_bandsEnergy_25_48"   
+[419] "freq.BodyAccMag_mean"              
+[420] "freq.BodyAccMag_std"               
+[421] "freq.BodyAccMag_mad"               
+[422] "freq.BodyAccMag_max"               
+[423] "freq.BodyAccMag_min"               
+[424] "freq.BodyAccMag_sma"               
+[425] "freq.BodyAccMag_energy"            
+[426] "freq.BodyAccMag_iqr"               
+[427] "freq.BodyAccMag_entropy"           
+[428] "freq.BodyAccMag_maxInds"           
+[429] "freq.BodyAccMag_meanFreq"          
+[430] "freq.BodyAccMag_skewness"          
+[431] "freq.BodyAccMag_kurtosis"          
+[432] "freq.BodyBodyAccJerkMag_mean"      
+[433] "freq.BodyBodyAccJerkMag_std"       
+[434] "freq.BodyBodyAccJerkMag_mad"       
+[435] "freq.BodyBodyAccJerkMag_max"       
+[436] "freq.BodyBodyAccJerkMag_min"       
+[437] "freq.BodyBodyAccJerkMag_sma"       
+[438] "freq.BodyBodyAccJerkMag_energy"    
+[439] "freq.BodyBodyAccJerkMag_iqr"       
+[440] "freq.BodyBodyAccJerkMag_entropy"   
+[441] "freq.BodyBodyAccJerkMag_maxInds"   
+[442] "freq.BodyBodyAccJerkMag_meanFreq"  
+[443] "freq.BodyBodyAccJerkMag_skewness"  
+[444] "freq.BodyBodyAccJerkMag_kurtosis"  
+[445] "freq.BodyBodyGyroMag_mean"         
+[446] "freq.BodyBodyGyroMag_std"          
+[447] "freq.BodyBodyGyroMag_mad"          
+[448] "freq.BodyBodyGyroMag_max"          
+[449] "freq.BodyBodyGyroMag_min"          
+[450] "freq.BodyBodyGyroMag_sma"          
+[451] "freq.BodyBodyGyroMag_energy"       
+[452] "freq.BodyBodyGyroMag_iqr"          
+[453] "freq.BodyBodyGyroMag_entropy"      
+[454] "freq.BodyBodyGyroMag_maxInds"      
+[455] "freq.BodyBodyGyroMag_meanFreq"     
+[456] "freq.BodyBodyGyroMag_skewness"     
+[457] "freq.BodyBodyGyroMag_kurtosis"     
+[458] "freq.BodyBodyGyroJerkMag_mean"     
+[459] "freq.BodyBodyGyroJerkMag_std"      
+[460] "freq.BodyBodyGyroJerkMag_mad"      
+[461] "freq.BodyBodyGyroJerkMag_max"      
+[462] "freq.BodyBodyGyroJerkMag_min"      
+[463] "freq.BodyBodyGyroJerkMag_sma"      
+[464] "freq.BodyBodyGyroJerkMag_energy"   
+[465] "freq.BodyBodyGyroJerkMag_iqr"      
+[466] "freq.BodyBodyGyroJerkMag_entropy"  
+[467] "freq.BodyBodyGyroJerkMag_maxInds"  
+[468] "freq.BodyBodyGyroJerkMag_meanFreq" 
+[469] "freq.BodyBodyGyroJerkMag_skewness" 
+[470] "freq.BodyBodyGyroJerkMag_kurtosis" 
+[471] "angletBodyAccMean_gravity"         
+[472] "angletBodyAccJerkMean_gravityMean" 
+[473] "angletBodyGyroMean_gravityMean"    
+[474] "angletBodyGyroJerkMean_gravityMean"
+[475] "angleX_gravityMean"                
+[476] "angleY_gravityMean"                
+[477] "angleZ_gravityMean"                
+[478] "activities"                        
+[479] "participants"

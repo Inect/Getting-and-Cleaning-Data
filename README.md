@@ -21,6 +21,7 @@ I change "t" to "time."
 and chaned "f" to "freq." I find this makes it easier to read the lables without making the lable to long
 
 I also change "-" to "_" to make the data readalbe by all programs
+removed ",()" from lables
 
 Part 4
 I took the data and apllyed it to a data table
